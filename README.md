@@ -1,0 +1,2 @@
+# redirectmaprp
+redirect map rpstrana
